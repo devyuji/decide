@@ -4,7 +4,7 @@ A simple decision-making app
 
 ## DEMO
 
-[Check out the app](https://github.com/devyuji/decide/release)
+[Check out the app](https://github.com/devyuji/decide/releases/)
 
 ## Installation
 
